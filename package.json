@@ -12,7 +12,7 @@
     "dat.gui": "^0.7.6",
     "lerp": "^1.0.3",
     "mailchimp-react": "0.0.7",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "paper": "^0.12.4",
     "re-resizable": "^6.3.2",
     "react": "^16.13.0",
