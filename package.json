@@ -22,7 +22,7 @@
     "react-mailchimp-subscribe": "^2.1.0",
     "react-resize-observer": "^1.1.1",
     "react-resize-reporter": "^1.0.0",
-    "react-scripts": "3.4.0",
+    "react-scripts": "5.0.1",
     "react-three-fiber": "^4.0.20",
     "three": "^0.114.0"
   },
